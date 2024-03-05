@@ -1,0 +1,13 @@
+/* li a {
+    color: green;
+} */
+
+.btn {
+    background-color: green;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+ul {
+    list-style-type: none;
+}
